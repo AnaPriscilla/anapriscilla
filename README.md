@@ -1,4 +1,4 @@
-# **Oi!** 👋🏻
+# **Oi!** 😸
 
 
 Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de **T.I** em especifico Dev. Front-End. 💻
