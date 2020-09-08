@@ -8,8 +8,8 @@ Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de
 
 #### 💬 **Sobre :** 
 - 📍 Moro em Goiânia - GO
-- 📰 Estudando JavaScript
-- 👨🏼‍🎓 Sou formada em Artes Visuais e curso Análise e Desenvolvimento de Sistemas (ADS).
+- 📰 Estou estudando JavaScript
+- 🎓 Sou formada em Artes Visuais e curso (precisei trancar) Análise e Desenvolvimento de Sistemas (ADS).
 - 🔍  Atualmente busco por aprendizagem.
 
 
