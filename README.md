@@ -10,6 +10,6 @@ Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de
 - 📍 Moro em Goiânia - GO;
 - 👨🏼‍🎓 Sou formada em Artes Visuais e curso Análise e Desenvolvimento de Sistemas (ADS).
 
- - ![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapriscilla/)
+ - ![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapriscilla/)
 
 ---
