@@ -1,16 +1,15 @@
-### Hi there 👋
+# **Oi!** 👋🏻
 
-<!--
-**AnaPriscilla/anapriscilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de **T.I** em especifico Dev. Front-End. 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+> Gosto de entender um problema ou problemas e buscar sua solução. Aprendo tirando dúvidas e pesquisando! 
+
+#### 🔸 **Sobre :** 
+- 📍 Moro em Goiânia - GO;
+- 👨🏼‍🎓 Sou formada em Artes Visuais e curso Análise e Desenvolvimento de Sistemas (ADS).
+
+ - ![Linkedin Badge](https://img.shields.io/badge/-Linkedln-blue?style=flatsquare&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapriscilla/)
+
+---
