@@ -1,4 +1,4 @@
-# **Oi!** 😸
+### **Oi!** 😸
 
 
 Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de **T.I** em especifico Dev. Front-End. 💻
@@ -8,8 +8,8 @@ Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de
 
 #### 💬 **Sobre :** 
 - 📍 Moro em Goiânia - GO
-- 📰 Estou estudando JavaScript
-- 🎓 Sou formada em Artes Visuais e curso (precisei trancar) Análise e Desenvolvimento de Sistemas (ADS).
+- 🦏 Estou focando meus estudos em Javascript.
+- 🎓 Sou formada em Artes Visuais e curso (precisei trancar) Análise e Desenvolvimento de Sistemas (ADS). 
 - 🔍  Atualmente busco por aprendizagem.
 
 
