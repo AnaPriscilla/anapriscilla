@@ -4,7 +4,7 @@
 Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de **T.I** em especifico Dev. Front-End. 💻
 
 
-> Gosto de entender um problema e buscar sua solução, sou curiosa, gosto de jogos e enigmas. Aprendo tirando dúvidas e pesquisando! 
+> Tenho estudado por conta própria e venho descobrindo um universo de incríveis possibilidades via códigos! 
 
 #### 💬 **Sobre :** 
 - 📍 Moro em Goiânia - GO
