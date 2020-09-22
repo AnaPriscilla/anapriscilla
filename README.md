@@ -4,13 +4,13 @@
 Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de **T.I** em especifico Dev. Front-End. 💻
 
 
-> Gosto de entender um problema ou problemas e buscar sua solução. Aprendo tirando dúvidas e pesquisando! 
+> Gosto de entender um problema e buscar sua solução, sou curiosa, gosto de jogos e enigmas. Aprendo tirando dúvidas e pesquisando! 
 
 #### 💬 **Sobre :** 
 - 📍 Moro em Goiânia - GO
 - 🦏 Estou focando meus estudos em Javascript.
-- 🎓 Sou formada em Artes Visuais e curso (precisei trancar) Análise e Desenvolvimento de Sistemas (ADS). 
-- 🔍  Atualmente busco por aprendizagem.
+- 🎓 Sou formada em Artes Visuais e trabalho como Web designer freelancer. 
+- 🔍  Atualmente busco por aprendizagem em front-end.
 
 
 ---
