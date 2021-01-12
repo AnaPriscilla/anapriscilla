@@ -9,7 +9,7 @@ Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de
 #### 💬 **Sobre :** 
 - 📍 Moro em Goiânia - GO
 - 🦏 Estou focando meus estudos em Javascript.
-- 🎓 Sou formada em Artes Visuais e trabalho como Web designer freelancer. 
+- 🎓 Sou formada em Artes Visuais e tenho como paixão o desenho. 
 - 🔍  Atualmente busco por aprendizagem em front-end.
 
 
