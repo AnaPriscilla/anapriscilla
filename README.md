@@ -16,4 +16,4 @@ Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de
 ---
 Contato :
 
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapriscilla/)](https://www.linkedin.com/in/anapriscilla/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:web.anapriscilla@gmail.com)](mailto:web.anapriscilla@gmail.com)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anapriscilla/)](https://www.linkedin.com/in/anapriscilla/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:web.anapriscilla@gmail.com)](mailto:web.anapriscilla@gmail.com) [![Codepen Badge](https://img.shields.io/badge/-Codepen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://www.codepen.io/AnaPriscilla/)](https://codepen.io/AnaPriscilla)
