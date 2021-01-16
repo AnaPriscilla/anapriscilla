@@ -1,10 +1,9 @@
-### **Oi!** 😸
+### **Oi!** 🦊
 
 
-Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de **T.I** em especifico Dev. Front-End. 💻
+Meu nome é **Ana Priscilla** e estou em transição de carreira para a área de **T.I** em especifico Dev. Front-End. 
 
-
-> Tenho estudado por conta própria e venho descobrindo um universo de incríveis possibilidades via códigos! 
+>  💻🖥📱 #PorMaisMulheresNaProgramação 
 
 #### 💬 **Sobre :** 
 - 📍 Moro em Goiânia - GO
@@ -20,9 +19,5 @@ Contato :
   
 Rede Social :  
   
-  [![Codepen Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://www.codepen.io/AnaPriscilla/)](https://codepen.io/AnaPriscilla)
- ###### Siga-me nessa comunidade online! - Aqui compartilho meus códigos de estudo 🧡 -
+  [![Codepen Badge](https://img.shields.io/badge/-CodePen-black?style=flat-square&logo=Codepen&logoColor=white&link=https://www.codepen.io/AnaPriscilla/)](https://codepen.io/AnaPriscilla) - Aqui compartilho meus códigos de estudo 🧡 -
  
- ---
- 
- 💻🖥📱
