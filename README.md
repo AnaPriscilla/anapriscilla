@@ -1,5 +1,5 @@
 ### **Oiii!** 👽 Sou uma Dev. Front-End em início de carreira! 👩‍💻
-|♒ Meu nome é Ana Priscilla! |![enter image description here](https://64.media.tumblr.com/74a22bb3dd7018a4c719b118b1a8b935/8586a91fdfe89f5a-e8/s640x960/c2f766f2aaf6820eef5c76ab6e93c765fc96888a.png)|
+|♒ Meu nome é Ana Priscilla!      |![enter image description here](https://64.media.tumblr.com/229d7dae6fe1224d918905f488280fb5/8586a91fdfe89f5a-35/s500x750/716cc8fdf95ada51f0c772d91c7802cd115d19bd.png)|
 |--|--|
 
 >💻🖥📱 #PorMaisMulheresNaProgramação 
