@@ -1,5 +1,6 @@
-### **Oiii!** 👽 Sou uma Dev. Front-End em início de carreira! 👩‍💻
-|♒ Meu nome é Ana Priscilla!      |![enter image description here](https://64.media.tumblr.com/229d7dae6fe1224d918905f488280fb5/8586a91fdfe89f5a-35/s500x750/716cc8fdf95ada51f0c772d91c7802cd115d19bd.png)|
+### **Oiii!** ♒ Meu nome é Ana Priscilla!  
+#### 👽 Sou uma Dev. Front-End em início de carreira! 👩‍💻
+|⌨🖱 |![enter image description here](https://instagram.fgyn2-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/207542770_839554570314701_2821404774772285144_n.jpg?tp=1&_nc_ht=instagram.fgyn2-1.fna.fbcdn.net&_nc_cat=105&_nc_ohc=uzyhZy7Mwm4AX-wqBNj&edm=AP_V10EBAAAA&ccb=7-4&oh=c33e30eb3e4b984d4a73945f9d201752&oe=60E51118&_nc_sid=4f375e)|
 |--|--|
 
 >💻🖥📱 #PorMaisMulheresNaProgramação 
